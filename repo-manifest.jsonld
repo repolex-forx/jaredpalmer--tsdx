@@ -105,8 +105,9 @@
     {
       "@id": "https://repolex.ai/r/jaredpalmer/tsdx/commit/64c50943905c983c98613944d50c20565efe6691",
       "git:hexsha": "64c50943905c983c98613944d50c20565efe6691",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v0.14.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.14.1",
+      "repolex:parsedAt": "2026-04-17T15:30:26.755346+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaredpalmer/tsdx/commit/f0adaee81d0dca0b04672f517bfa1bbf6778a842",
